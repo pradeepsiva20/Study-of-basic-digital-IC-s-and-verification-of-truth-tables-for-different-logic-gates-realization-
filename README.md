@@ -58,7 +58,7 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
-/*
+```
 module ex1(p,b,c,d,e,f,g,m,i);
 input p,b;
 output c,d,e,f,g,m,i;
@@ -74,7 +74,7 @@ endmodule
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by:PRADEEP.S 
 RegisterNumber:212222100034  
-*/
+```
 Logic symbol & Truthtable:
 ![dg2](https://user-images.githubusercontent.com/120539823/226121080-443fd11f-8b93-44ef-9195-453699359e57.jpg)
 
