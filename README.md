@@ -75,11 +75,16 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by:PRADEEP.S 
 RegisterNumber:212222100034  
 ```
+
 Logic symbol & Truthtable:
-![dg2](https://user-images.githubusercontent.com/120539823/226121080-443fd11f-8b93-44ef-9195-453699359e57.jpg)
+![truth](https://user-images.githubusercontent.com/120539823/230734432-8b3f2ed9-f455-464d-899d-5c2ce109180d.png)
 
 RTL realization:
-![Screenshot (88)](https://user-images.githubusercontent.com/120539823/226121109-06749af0-ecd0-4d2f-bc23-527e2bb771ae.png)
+![de 1](https://user-images.githubusercontent.com/120539823/230734444-d3e49c9b-b8b9-4e19-90e8-2759b156ace6.png)
+
+Timing Diagram:
+![timing diagram](https://user-images.githubusercontent.com/120539823/230734479-09159f26-e720-4635-a2ec-d0761c1e90bb.png)
+
 
 
 Result:
